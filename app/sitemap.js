@@ -1,5 +1,5 @@
 // app/sitemap.js - VERSI DIPERBAIKI DAN LENGKAP
-const BASE_URL = 'https://gomovies123.vercel.app';
+const BASE_URL = 'https://gomovies-watch.vercel.app';
 
 export default async function sitemap() {
   console.log('🎬 Generating dynamic sitemap for Gomovies...');

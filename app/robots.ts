@@ -2,7 +2,7 @@
 import { MetadataRoute } from 'next'
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://gomovies123.vercel.app'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://gomovies-watch.vercel.app'
   const isProduction = process.env.NODE_ENV === 'production'
   
   return {

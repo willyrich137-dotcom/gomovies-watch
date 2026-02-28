@@ -138,7 +138,7 @@ export default function Navbar() {
           <Link href="/" className="flex items-center text-3xl font-bold transition-colors duration-200 group">
             <FaVideo className="text-white mr-2 group-hover:text-yellow-200 transition-colors" />
             <span className="rainbow-text hover:text-white transition-colors">
-              Gomovies
+              GoMovies
             </span>
           </Link>
           <div className="hidden md:flex items-center space-x-4">
