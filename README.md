@@ -1,2 +1,2 @@
-# gomovies
-Watch Movies Stream Series
+# gomovies-watch
+Watch Movie and Stream Web Series
